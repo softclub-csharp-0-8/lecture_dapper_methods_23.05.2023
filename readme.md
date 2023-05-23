@@ -1,5 +1,5 @@
-`QuerySingleOrDefault<T>()` - 
-if count = 0 returns null
+`QuerySingleOrDefault<T>()` - <br/>
+if count = 0 returns null <br/>
 if count > 1 return exception
 
 
